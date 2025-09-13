@@ -29,7 +29,7 @@
     "default_icon": "icon.png"
   },
   "icons": {
-    "96": "icon.png",
+    "48": "icon.png",
     "96": "icon.png"
   },
   "browser_specific_settings": {
